@@ -1,4 +1,4 @@
-## Hi there, I'm Simone Reale 👋
+## Hi there, I'm Simone 👋
 I'm 24 and I'm currently studying **Artificial Intelligence** at the University of Bologna.
 
 ⚡ Come and check my profile! <br>
