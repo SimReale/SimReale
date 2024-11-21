@@ -4,9 +4,9 @@ I'm 24 and I'm currently studying **Artificial Intelligence** at the University 
 ⚡ Come and check my profile! <br>
 📧 Contact: sim.reale00@gmail.com <br>
 <br>
-[![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimReale&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent)](https://github.com/SimReale/github-readme-stats)
+[![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimReale&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent)](https://github.com/SimReale/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimReale&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimReale&layout=compact&count_private=true&theme=transparent)
 
 <!--
 **SimReale/SimReale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
