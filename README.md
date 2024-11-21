@@ -2,7 +2,8 @@
 I'm 24 and I'm currently studying **Artificial Intelligence** at the University of Bologna.
 
 🎓 BS: Automation Engineering <br>
-🏫 MS: AI Expert [Work in progress...] <br>
+🏫 MS: AI Expert <br>
+&emsp;&nbsp; [Work in progress...] <br>
 🧠 Known Languages: 🇮🇹, 🇬🇧 <br>
 ⚡ Come and check my profile! <br>
 📧 Contact: sim.reale00@gmail.com <br>
