@@ -1,6 +1,8 @@
 ## Hi there, I'm Simone 👋
 I'm 24 and I'm currently studying **Artificial Intelligence** at the University of Bologna.
 
+🎓 BS: Automation Engineering <br>
+🏫 MS: AI Expert [Work in progress...] <br>
 ⚡ Come and check my profile! <br>
 📧 Contact: sim.reale00@gmail.com <br>
 <br>
