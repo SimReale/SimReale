@@ -2,7 +2,7 @@
 I'm 24 and I'm currently studying **Artificial Intelligence** at the University of Bologna.
 
 🎓 BS: Automation Engineering <br>
-🏫 MS: AI Expert <br>
+🏫 MS: Artificial Intelligence <br>
 &emsp;&nbsp; [Work in progress...] <br>
 💬 Known Languages: Italian (🇮🇹), English (🇬🇧) <br>
 ⚡ Come and check my profile! <br>
