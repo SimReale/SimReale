@@ -1,4 +1,5 @@
-## Hi there, I'm Simone 👋
+<h1 align="center">Hi there, I'm Simone 👋 </h1>
+
 I'm 24 and I'm currently studying **Artificial Intelligence** at the University of Bologna.
 
 🎓 BS: Automation Engineering <br>
@@ -6,11 +7,20 @@ I'm 24 and I'm currently studying **Artificial Intelligence** at the University 
 &emsp;&nbsp; [Work in progress...] <br>
 💬 Known Languages: Italian (🇮🇹), English (🇬🇧) <br>
 ⚡ Come and check my profile! <br>
-📧 Contact: sim.reale00@gmail.com <br>
-<br>
-[![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimReale&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent)](https://github.com/SimReale/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimReale&layout=compact&count_private=true&theme=transparent)
+<h1 align="center"> Activity & Skills </h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,latex,tensorflow,pytorch,opencv,sklearn,vscode,js,docker,notion,git,github,discord,windows,ubuntu&perline=8" />
+  </a>
+</p>
+
+<h1 align="center"> Contacts </h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gmail" /> <br>
+  sim.reale00@gmail.com
+</p>
+
 
 <!--
 **SimReale/SimReale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
