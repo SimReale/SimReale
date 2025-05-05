@@ -11,7 +11,7 @@ I'm 24 and I'm currently studying **Artificial Intelligence** at the University 
 <h1 align="center"> Activity & Skills </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,latex,tensorflow,pytorch,opencv,sklearn,vscode,js,docker,notion,git,github,discord,windows,ubuntu&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,latex,tensorflow,pytorch,opencv,sklearn,vscode,docker,notion,git,github,windows,ubuntu&perline=7" />
   </a>
 </p>
 
