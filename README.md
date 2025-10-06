@@ -1,26 +1,48 @@
 <h1 align="center">Hi there, I'm Simone 👋 </h1>
+<p align="center">
+  <i>"Enjoy the butterflies. Enjoy being naive. Enjoy the nerves, the pressure. If you kind of want to stand on the top from day one, then there's nothing else to look forward to."</i>
+</p>
 
-I'm 24 and I'm currently studying **Artificial Intelligence** at the University of Bologna.
+<br>
 
-🎓 BS: Automation Engineering <br>
-🏫 MS: Artificial Intelligence <br>
-&emsp;&nbsp; [Work in progress...] <br>
-💬 Known Languages: Italian (🇮🇹), English (🇬🇧) <br>
-⚡ Come and check my profile! <br>
+<h3 align="center"> About me </h3>
+<p align="center">
+  - 🧠 MSc Student of Artificial Intelligence <br>
+  - 🎓 BSc: Automation Engineering <br>
+  - 💬 Known Languages: Italian (🇮🇹), English (🇬🇧), Spanish (🇪🇸) <br>
+</p>
+<h3 align="center"> Contacts </h3>
+<div align="center">
+  <a href="mailto:sim.reale00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sim.reale00@gmail.com-green" alt="Mail" height=25/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/simreale/">
+    <img src="https://img.shields.io/badge/LinkedIn-Simone_Reale-blue" alt="LinkedIn" height=25/>
+  </a>
+</div>
 
-<h1 align="center"> Activity & Skills </h1>
+<br>
+
+<h2 align="center"> Activity & Skills </h2>
+<h3 align="center"> Languages </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,latex,tensorflow,pytorch,opencv,sklearn,vscode,docker,notion,git,github,windows,ubuntu&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,ros,matlab,arduino,latex" />
   </a>
 </p>
-
-<h1 align="center"> Contacts </h1>
+<h3 align="center"> Frameworks </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gmail" /> <br>
-  sim.reale00@gmail.com
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+  </a>
 </p>
-
+<h3 align="center"> Platforms and DevOPs </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,docker,notion,git,github,gitlab,bash,apple,windows,linux,ubuntu,raspberrypi" />
+  </a>
+</p>
 
 <!--
 **SimReale/SimReale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
