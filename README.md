@@ -11,10 +11,15 @@
   - 🎓 BSc: Automation Engineering <br>
   - 💬 Known Languages: Italian (🇮🇹), English (🇬🇧), Spanish (🇪🇸) <br>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SimReale&show_icons=true&theme=dark#gh-dark-mode-only" alt="Simone's GitHub stats" />
+</p>
+
 <h3 align="center"> Contacts </h3>
 <div align="center">
   <a href="mailto:sim.reale00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sim.reale00@gmail.com-green" alt="Mail" height=25/>
+    <img src="https://img.shields.io/badge/Email-sim.reale00@gmail.com-olivegreen" alt="Mail" height=25/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/simreale/">
@@ -28,7 +33,7 @@
 <h3 align="center"> Languages </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,ros,matlab,arduino,latex" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,ros,matlab,arduino,latex,bash" />
   </a>
 </p>
 <h3 align="center"> Frameworks </h3>
@@ -40,7 +45,7 @@
 <h3 align="center"> DevOPs and Tools </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,docker,notion,grafana,git,github,gitlab,bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,docker,notion,grafana,git,github,gitlab" />
   </a>
 </p>
 <h3 align="center"> Platforms </h3>
