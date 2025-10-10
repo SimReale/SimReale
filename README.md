@@ -37,10 +37,16 @@
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
   </a>
 </p>
-<h3 align="center"> Platforms and DevOPs </h3>
+<h3 align="center"> DevOPs and Tools </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,docker,notion,git,github,gitlab,bash,apple,windows,linux,ubuntu,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=vscode,docker,notion,grafana,git,github,gitlab,bash" />
+  </a>
+</p>
+<h3 align="center"> Platforms </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,raspberrypi" />
   </a>
 </p>
 
